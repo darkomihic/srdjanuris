@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\RatingService.csproj": {}
+    "C:\\Users\\mihic\\source\\repos\\URIS\\RatingService\\RatingService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\RatingService.csproj": {
+    "C:\\Users\\mihic\\source\\repos\\URIS\\RatingService\\RatingService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\RatingService.csproj",
+        "projectUniqueName": "C:\\Users\\mihic\\source\\repos\\URIS\\RatingService\\RatingService.csproj",
         "projectName": "RatingService",
-        "projectPath": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\RatingService.csproj",
+        "projectPath": "C:\\Users\\mihic\\source\\repos\\URIS\\RatingService\\RatingService.csproj",
         "packagesPath": "C:\\Users\\mihic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\obj\\",
+        "outputPath": "C:\\Users\\mihic\\source\\repos\\URIS\\RatingService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mihic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -87,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

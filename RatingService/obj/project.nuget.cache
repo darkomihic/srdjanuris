@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SZdaCXQ3DegfsxcprpvkSHeR4DvJaeULxyG4ZG0quWCHEVN8MFqsEWOqHK2vqIrSY9qfvgnl4xFSGNhLVn2GTA==",
+  "dgSpecHash": "HKy/uCfJAUVjyMu0eVfe233UfujXuCtS0vj53Ai/3lCDQ3QAHWJDfz9PNSeriPT1nK/FeoAcYHZ2bp5Vs2l33w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\RatingService.csproj",
+  "projectFilePath": "C:\\Users\\mihic\\source\\repos\\URIS\\RatingService\\RatingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihic\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mihic\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
