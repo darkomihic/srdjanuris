@@ -1,6 +1,8 @@
 using RatingService.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
+using RatingService.Data.Interface;
+using RatingService.Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +28,11 @@ builder.Services.AddDbContext<Context>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+builder.Services.AddScoped<IBuyerRepository, BuyerRepository>();
+builder.Services.AddScoped<ISellerRepository, SellerRepository>();
+builder.Services.AddScoped<IRatingRepository, RatingRepository>();
+builder.Services.AddScoped<IPurchaseRepository, PurchaseRepository>();
 
 var app = builder.Build();
 

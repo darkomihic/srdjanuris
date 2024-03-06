@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ra74NDY0bRkroBMMJkdJK/wBrAi0RiZGZVWt7AB18BC87GaEXGQ0mES8YJ/sA9/pqQI4CHbKrxoTFVm5/z2n9g==",
+  "dgSpecHash": "SZdaCXQ3DegfsxcprpvkSHeR4DvJaeULxyG4ZG0quWCHEVN8MFqsEWOqHK2vqIrSY9qfvgnl4xFSGNhLVn2GTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mihic\\source\\repos\\URIS2023-AgilIS-Tim6\\RatingService\\RatingService\\RatingService.csproj",
+  "projectFilePath": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\RatingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihic\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mihic\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

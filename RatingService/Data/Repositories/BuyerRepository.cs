@@ -1,26 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using RatingService.Data.Interface;
 using RatingService.Entities;
+using RatingService.Entities.Confirmations;
 
 namespace RatingService.Data.Repositories
 {
     public class BuyerRepository : IBuyerRepository
     {
         private readonly Context context;
+        private readonly IMapper mapper;
 
-        public BuyerRepository(Context context)
+        public BuyerRepository(Context context, IMapper mapper)
         {
             this.context = context;
+            this.mapper = mapper;   
         }
 
-        public Buyer CreateBuyer(Buyer buyer)
+        public BuyerConfirmation CreateBuyer(Buyer buyer)
         {
             var createdEntity = context.Buyer.Add(buyer);
             context.SaveChanges();
-            return createdEntity.Entity;
+            return mapper.Map<BuyerConfirmation>(createdEntity.Entity);
         }
 
         public Buyer GetBuyerById(Guid buyerId)

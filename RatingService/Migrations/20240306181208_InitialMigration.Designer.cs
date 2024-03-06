@@ -12,7 +12,7 @@ using RatingService.Data;
 namespace RatingService.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20240304170900_InitialMigration")]
+    [Migration("20240306181208_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
@@ -83,6 +83,9 @@ namespace RatingService.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<Guid>("buyerId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<string>("comment")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -92,6 +95,12 @@ namespace RatingService.Migrations
 
                     b.Property<int>("grade")
                         .HasColumnType("int");
+
+                    b.Property<Guid>("purchaseId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("sellerId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("title")
                         .IsRequired()
@@ -105,9 +114,12 @@ namespace RatingService.Migrations
                         new
                         {
                             ratingId = new Guid("f3e51e2d-1c1f-4e98-98fa-b099e90ce0a2"),
+                            buyerId = new Guid("2c1c1ebf-d97b-4e00-a923-1ac5501de37e"),
                             comment = "Comment1",
                             date = new DateOnly(2015, 10, 21),
                             grade = 5,
+                            purchaseId = new Guid("c731cb1a-c9de-42cc-81c7-ef0f9e19f852"),
+                            sellerId = new Guid("34a88e70-ed89-410a-ab1e-a9f35a9de5a2"),
                             title = "Title1"
                         });
                 });

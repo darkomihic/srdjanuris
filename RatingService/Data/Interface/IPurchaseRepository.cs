@@ -1,10 +1,11 @@
 ﻿using RatingService.Entities;
+using RatingService.Entities.Confirmations;
 
 namespace RatingService.Data.Interface
 {
-    public interface PurchaseRepository
+    public interface IPurchaseRepository
     {
-        Purchase CreatePurchase(Purchase purchase);
+        PurchaseConfirmation CreatePurchase(Purchase purchase);
         Purchase GetPurchaseById(Guid purchaseId);
         void DeletePurchase(Guid purchaseId);
         List<Purchase> GetPurchases();

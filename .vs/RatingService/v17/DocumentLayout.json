@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Migrations\\20240306181208_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatingService\\Migrations\\20240306181208_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\data\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\data\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\confirmations\\ratingconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\confirmations\\ratingconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\rating\\ratingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\rating\\ratingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\rating\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\rating\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\rating\\ratingcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\rating\\ratingcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\rating\\ratingconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\rating\\ratingconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\confirmations\\purchaseconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\confirmations\\purchaseconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\data\\interface\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\data\\interface\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\data\\repositories\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\data\\repositories\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\profiles\\buyerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\profiles\\buyerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\buyer\\buyerconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\buyer\\buyerconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\buyer\\buyerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\buyer\\buyerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\buyer\\buyercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\buyer\\buyercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\confirmations\\buyerconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\confirmations\\buyerconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\profiles\\purchaseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\profiles\\purchaseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\profiles\\sellerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\profiles\\sellerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\seller\\sellercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\seller\\sellercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\seller\\sellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\seller\\sellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\dtos\\seller\\sellerconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\dtos\\seller\\sellerconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|c:\\users\\mihic\\source\\repos\\srdjanuris\\ratingservice\\entities\\confirmations\\sellerconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9371E7C7-C85B-4C58-9280-AA958E8FCAC0}|RatingService\\RatingService.csproj|solutionrelative:ratingservice\\entities\\confirmations\\sellerconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240306181208_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Migrations\\20240306181208_InitialMigration.cs",
+              "RelativeDocumentMoniker": "RatingService\\Migrations\\20240306181208_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Migrations\\20240306181208_InitialMigration.cs",
+              "RelativeToolTip": "RatingService\\Migrations\\20240306181208_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:12:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Repositories\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "RatingService\\Data\\Repositories\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Repositories\\RatingRepository.cs",
+              "RelativeToolTip": "RatingService\\Data\\Repositories\\RatingRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAIA2wCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:59:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Program.cs",
+              "RelativeDocumentMoniker": "RatingService\\Program.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Program.cs",
+              "RelativeToolTip": "RatingService\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAjwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:39:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "RatingService\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Context.cs",
+              "RelativeToolTip": "RatingService\\Data\\Context.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:52.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RatingUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingUpdateDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Rating\\RatingUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingUpdateDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Rating\\RatingUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:05:46.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RatingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Rating\\RatingDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Rating\\RatingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:05:41.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Rating.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:59:40.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RatingConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\RatingConfirmation.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Confirmations\\RatingConfirmation.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\RatingConfirmation.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Confirmations\\RatingConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:03:48.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RatingCreationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingCreationDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Rating\\RatingCreationDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingCreationDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Rating\\RatingCreationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:04:42.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RatingConfirmationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingConfirmationDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Rating\\RatingConfirmationDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Rating\\RatingConfirmationDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Rating\\RatingConfirmationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:04:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PurchaseConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\PurchaseConfirmation.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Confirmations\\PurchaseConfirmation.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\PurchaseConfirmation.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Confirmations\\PurchaseConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:03:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Purchase.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Purchase.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Purchase.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:59:57.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "RatingService\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "RatingService\\Controllers\\RatingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:57:01.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Seller.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Seller.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Seller.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:52.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "RatingService\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "RatingService\\Controllers\\PurchaseController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:56:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "RatingService\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "RatingService\\Controllers\\SellerController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAEYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:41:38.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Interface\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "RatingService\\Data\\Interface\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Interface\\IRatingRepository.cs",
+              "RelativeToolTip": "RatingService\\Data\\Interface\\IRatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:52.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Repositories\\SellerRepository.cs",
+              "RelativeDocumentMoniker": "RatingService\\Data\\Repositories\\SellerRepository.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Data\\Repositories\\SellerRepository.cs",
+              "RelativeToolTip": "RatingService\\Data\\Repositories\\SellerRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAD3rTkuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:51.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BuyerConfirmationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Buyer\\BuyerConfirmationDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Buyer\\BuyerConfirmationDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Buyer\\BuyerConfirmationDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Buyer\\BuyerConfirmationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:56:53.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuyerUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Buyer\\BuyerUpdateDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Buyer\\BuyerUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Buyer\\BuyerUpdateDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Buyer\\BuyerUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:55:56.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BuyerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Profiles\\BuyerProfile.cs",
+              "RelativeDocumentMoniker": "RatingService\\Profiles\\BuyerProfile.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Profiles\\BuyerProfile.cs",
+              "RelativeToolTip": "RatingService\\Profiles\\BuyerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:10:33.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BuyerConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\BuyerConfirmation.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Confirmations\\BuyerConfirmation.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\BuyerConfirmation.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Confirmations\\BuyerConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:55:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BuyerCreationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Buyer\\BuyerCreationDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Buyer\\BuyerCreationDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Buyer\\BuyerCreationDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Buyer\\BuyerCreationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:56:03.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Buyer.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Buyer.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Buyer.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Buyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:48:04.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PurchaseProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Profiles\\PurchaseProfile.cs",
+              "RelativeDocumentMoniker": "RatingService\\Profiles\\PurchaseProfile.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Profiles\\PurchaseProfile.cs",
+              "RelativeToolTip": "RatingService\\Profiles\\PurchaseProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA2wA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:14:36.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SellerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Profiles\\SellerProfile.cs",
+              "RelativeDocumentMoniker": "RatingService\\Profiles\\SellerProfile.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Profiles\\SellerProfile.cs",
+              "RelativeToolTip": "RatingService\\Profiles\\SellerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:12:43.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\appsettings.json",
+              "RelativeDocumentMoniker": "RatingService\\appsettings.json",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\appsettings.json",
+              "RelativeToolTip": "RatingService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T16:01:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SellerCreationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Seller\\SellerCreationDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Seller\\SellerCreationDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Seller\\SellerCreationDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Seller\\SellerCreationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:52.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SellerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Seller\\SellerDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Seller\\SellerDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Seller\\SellerDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Seller\\SellerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:52.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SellerConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\SellerConfirmation.cs",
+              "RelativeDocumentMoniker": "RatingService\\Entities\\Confirmations\\SellerConfirmation.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\Entities\\Confirmations\\SellerConfirmation.cs",
+              "RelativeToolTip": "RatingService\\Entities\\Confirmations\\SellerConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SellerConfirmationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Seller\\SellerConfirmationDTO.cs",
+              "RelativeDocumentMoniker": "RatingService\\DTOs\\Seller\\SellerConfirmationDTO.cs",
+              "ToolTip": "C:\\Users\\mihic\\source\\repos\\srdjanuris\\RatingService\\DTOs\\Seller\\SellerConfirmationDTO.cs",
+              "RelativeToolTip": "RatingService\\DTOs\\Seller\\SellerConfirmationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:01:52.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

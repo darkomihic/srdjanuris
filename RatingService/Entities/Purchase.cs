@@ -8,5 +8,7 @@ namespace RatingService.Entities
         [Required] public DateOnly date {  get; set; }
         [Required] public int price { get; set; }
 
+
+
     }
 }

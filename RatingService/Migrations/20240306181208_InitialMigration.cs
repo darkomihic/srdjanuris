@@ -45,7 +45,10 @@ namespace RatingService.Migrations
                     date = table.Column<DateOnly>(type: "date", nullable: false),
                     grade = table.Column<int>(type: "int", nullable: false),
                     comment = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    title = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    title = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    buyerId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    sellerId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    purchaseId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -77,8 +80,8 @@ namespace RatingService.Migrations
 
             migrationBuilder.InsertData(
                 table: "Rating",
-                columns: new[] { "ratingId", "comment", "date", "grade", "title" },
-                values: new object[] { new Guid("f3e51e2d-1c1f-4e98-98fa-b099e90ce0a2"), "Comment1", new DateOnly(2015, 10, 21), 5, "Title1" });
+                columns: new[] { "ratingId", "buyerId", "comment", "date", "grade", "purchaseId", "sellerId", "title" },
+                values: new object[] { new Guid("f3e51e2d-1c1f-4e98-98fa-b099e90ce0a2"), new Guid("2c1c1ebf-d97b-4e00-a923-1ac5501de37e"), "Comment1", new DateOnly(2015, 10, 21), 5, new Guid("c731cb1a-c9de-42cc-81c7-ef0f9e19f852"), new Guid("34a88e70-ed89-410a-ab1e-a9f35a9de5a2"), "Title1" });
 
             migrationBuilder.InsertData(
                 table: "Seller",
